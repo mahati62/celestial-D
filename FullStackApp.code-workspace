@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Users/mahati.s/FullStackApp"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
